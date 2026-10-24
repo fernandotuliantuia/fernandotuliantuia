@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Fernando Tulian 👋
 
-<!--
-**fernandotuliantuia/fernandotuliantuia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería Industrial** y de la **Tecnicatura Universitaria en Inteligencia Artificial** en la UNR (Rosario). Me interesan los datos, las bases de datos y cómo la tecnología se aplica a procesos reales de una empresa. Estoy buscando mi primera oportunidad laboral en esta área.
 
-Here are some ideas to get you started:
+## Lo que sé hacer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bases de datos:** SQL (nivel bueno), SQL Server y MySQL. Modelado relacional, consultas y carga de datos.
+- **ETL y visualización:** armé un datawarehouse con proceso ETL y presenté los resultados en Power BI.
+- **Python:** nivel básico-intermedio (listas, diccionarios, funciones, recursividad, POO). Ahora estoy aprendiendo Pandas y limpieza de datos.
+- **Otros:** conocimientos básicos de R y Excel. Teoría de Machine Learning y redes neuronales, con la práctica en camino.
+- **Idiomas:** inglés escrito y de lectura en nivel alto.
+
+## Proyectos
+
+- 🗄️ **Datawarehouse con ETL y Power BI** (proyecto de Bases de Datos 2, UNR): diseño del modelo, proceso ETL, carga de la base y presentación de los datos. Defendido ante los profesores. *(repo próximamente)*
+- 🐍 **Prácticas de Python:** ejercicios de estructuras de datos y POO. *(repo próximamente)*
+
+## Herramientas
+
+`SQL Server` `MySQL` `Python` `Power BI` `R (básico)` `Excel`
+
+## Contacto
+
+📍 Villa Constitución, Santa Fe, Argentina
+🔗 LinkedIn: *(agregar link)*
